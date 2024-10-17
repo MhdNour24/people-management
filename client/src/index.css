@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  }
+
+@layer components {
+  .backgroundBody {
+    @apply bg-[#282c34] text-white w-full min-h-[100vh] flex items-center justify-center;
+  }
+}
