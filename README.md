@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/1c92d348-89d4-47ca-ab4d-d7a7c061a031
+
+
 # People Management Application
 
 This application allows users to manage a list of people, providing functionality to add, edit, and delete people. It features a React-based , Redux Toolkit and Tailwind front-end and a Node.js/Express back-end with MongoDB for data storage.
